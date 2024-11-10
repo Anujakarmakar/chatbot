@@ -10,7 +10,7 @@ cur = conn.cursor()
 
 chat = '''
 user: context question
-gpt: query
+gpt: query api
 '''
 
 # cur.execute(query)
